@@ -2,6 +2,7 @@
   "name": "codemirror-ts-deps",
   "version": "0.0.1",
   "type": "module",
+  "main": "index.js",
   "dependencies": {
     "@codemirror/view": "^6",
     "@codemirror/autocomplete": "^6",
