@@ -1,0 +1,24 @@
+{
+  "name": "vite-typescript-starter",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@codemirror/view": "^6",
+    "@codemirror/autocomplete": "^6",
+    "@codemirror/lang-javascript": "^6",
+    "@codemirror/lint": "^6",
+    "@typescript/vfs": "^1.5.0",
+    "codemirror": "^6",
+    "@valtown/codemirror-ts": "1.0.0"
+  },
+  "devDependencies": {
+    "typescript": "^5.2.2",
+    "vite": "^5.0.0"
+  }
+}
