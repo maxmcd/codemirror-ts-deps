@@ -12,5 +12,5 @@
     "codemirror": "^6",
     "typescript": "^5.2.2",
     "@valtown/codemirror-ts": "1.0.0"
-  },
+  }
 }
